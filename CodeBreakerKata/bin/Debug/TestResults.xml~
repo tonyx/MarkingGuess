@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="..\CodeBreakerKata\bin\Debug\CodeBreakerKata.dll" total="6" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-06-27" time="12:06:25">
+  <environment nunit-version="2.5.3.9345" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\output" machine-name="TONINO-PC" user="Tonino" user-domain="Tonino-PC" />
+  <culture-info current-culture="it-IT" current-uiculture="it-IT" />
+  <test-suite name="..\CodeBreakerKata\bin\Debug\CodeBreakerKata.dll" executed="True" success="False" time="0.081" asserts="0">
+    <results>
+      <test-suite name="CodeBreakerKata" executed="True" success="False" time="0.072" asserts="0">
+        <results>
+          <test-suite name="TestMarkingGuess" executed="True" success="False" time="0.069" asserts="0">
+            <results>
+              <test-suite name="TestMark" executed="True" success="False" time="0.062" asserts="0">
+                <results>
+                  <test-case name="CodeBreakerKata.TestMarkingGuess.TestMark(&quot;m&quot;,&quot;bxxx&quot;,&quot;rgyb&quot;)" executed="True" success="True" time="0.029" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestMarkingGuess.TestMark(&quot;mm&quot;,&quot;xybx&quot;,&quot;rgyb&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestMarkingGuess.TestMark(&quot;mm&quot;,&quot;yyxx&quot;,&quot;rgyb&quot;)" executed="True" success="False" time="0.017" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected string length 2 but was 1. Strings differ at index 1.
+  Expected: "mm"
+  But was:  "m"
+  ------------^
+]]></message>
+                      <stack-trace><![CDATA[in CodeBreakerKata.TestMarkingGuess.TestMark(String answer, String guess, String secret) in c:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\CodeBreaker.cs:riga 60
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="CodeBreakerKata.TestMarkingGuess.TestMark(&quot;m&quot;,&quot;xbxx&quot;,&quot;rgyb&quot;)" executed="True" success="True" time="0.001" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestMarkingGuess.TestMark(&quot;m&quot;,&quot;xxbx&quot;,&quot;rgyb&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestMarkingGuess.TestMark(&quot;&quot;,&quot;xxxx&quot;,&quot;rgyb&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
+

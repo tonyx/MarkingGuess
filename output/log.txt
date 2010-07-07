@@ -1,0 +1,26 @@
+NUnit version 2.5.5.10112
+Copyright (C) 2002-2009 Charlie Poole.
+Copyright (C) 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov.
+Copyright (C) 2000-2002 Philip Craig.
+All Rights Reserved.
+
+Runtime Environment - 
+   OS Version: Microsoft Windows NT 6.1.7600.0
+  CLR Version: 2.0.50727.4927 ( Net 2.0 )
+
+ProcessModel: Default    DomainUsage: Single
+Execution Runtime: net-2.0
+...F...
+Tests run: 6, Errors: 0, Failures: 1, Inconclusive: 0, Time: 0,2390137 seconds
+  Not run: 0, Invalid: 0, Ignored: 0, Skipped: 0
+
+Errors and Failures:
+1) Test Failure : CodeBreakerKata.TestMarkingGuess.TestMark("mm","yyxx","rgyb")
+     Expected string length 2 but was 1. Strings differ at index 1.
+  Expected: "mm"
+  But was:  "m"
+  ------------^
+
+in CodeBreakerKata.TestMarkingGuess.TestMark(String answer, String guess, String secret) in c:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\CodeBreaker.cs:riga 60
+
+

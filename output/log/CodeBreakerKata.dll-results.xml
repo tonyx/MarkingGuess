@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\bin\Debug\CodeBreakerKata.dll" total="1" failures="0" not-run="0" date="2010-06-26" time="11:06:54">
+  <environment nunit-version="2.2.8.0" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\output" machine-name="TONINO-PC" user="Tonino" user-domain="Tonino-PC" />
+  <culture-info current-culture="it-IT" current-uiculture="it-IT" />
+  <test-suite name="C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\bin\Debug\CodeBreakerKata.dll" success="True" time="0.016" asserts="0">
+    <results>
+      <test-suite name="CodeBreakerKata" success="True" time="0.014" asserts="0">
+        <results>
+          <test-suite name="CodeBreakerKata.TestCodebreakerMarkingGuess" success="True" time="0.013" asserts="0">
+            <results>
+              <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forNoMatchShouldReturnAnEmptyString" executed="True" success="True" time="0.011" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

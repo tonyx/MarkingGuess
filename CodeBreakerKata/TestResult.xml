@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="bin\Debug\CodebreakerKata.dll" total="12" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-06-25" time="18:08:02">
+  <environment nunit-version="2.5.3.9345" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata" machine-name="TONINO-PC" user="Tonino" user-domain="Tonino-PC" />
+  <culture-info current-culture="it-IT" current-uiculture="it-IT" />
+  <test-suite name="bin\Debug\CodebreakerKata.dll" executed="True" success="True" time="0.076" asserts="0">
+    <results>
+      <test-suite name="CodeBreakerKata" executed="True" success="True" time="0.066" asserts="0">
+        <results>
+          <test-suite name="TestCodebreakerMarkingGuess" executed="True" success="True" time="0.065" asserts="0">
+            <results>
+              <test-suite name="forAPositionalMatchShluldReturnM" executed="True" success="True" time="0.049" asserts="0">
+                <results>
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;pp&quot;,&quot;xxrg&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.032" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;m&quot;,&quot;xxyy&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;mm&quot;,&quot;xxyr&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;m&quot;,&quot;gxxx&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;ppp&quot;,&quot;xyrg&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;ppm&quot;,&quot;yxrg&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;p&quot;,&quot;xxxg&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.001" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;m&quot;,&quot;xgxx&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;m&quot;,&quot;xxgx&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnM(&quot;m&quot;,&quot;xxxr&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.000" asserts="2" />
+                </results>
+              </test-suite>
+              <test-suite name="forAPositionalMatchShluldReturnP" executed="True" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forAPositionalMatchShluldReturnP(&quot;p&quot;,&quot;xxxg&quot;,&quot;byrg&quot;)" executed="True" success="True" time="0.001" asserts="2" />
+                </results>
+              </test-suite>
+              <test-case name="CodeBreakerKata.TestCodebreakerMarkingGuess.forNoMatchShouldReturnAnEmptyString" executed="True" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

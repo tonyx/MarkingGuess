@@ -1,0 +1,14 @@
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\bin\Debug\CodeBreakerKata.dll
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\bin\Debug\CodeBreakerKata.pdb
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\bin\Debug\nunit.framework.dll
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\bin\Debug\nunit.framework.xml
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\obj\any cpu\Debug\ResolveAssemblyReference.cache
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\obj\any cpu\Debug\CodeBreakerKata.dll
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\CodeBreakerKata\CodeBreakerKata\obj\any cpu\Debug\CodeBreakerKata.pdb
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\bin\Debug\CodeBreakerKata.dll
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\bin\Debug\CodeBreakerKata.pdb
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\bin\Debug\nunit.framework.dll
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\bin\Debug\nunit.framework.xml
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\obj\any cpu\Debug\ResolveAssemblyReference.cache
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\obj\any cpu\Debug\CodeBreakerKata.dll
+C:\Users\Tonino\Documents\Visual Studio 2008\Projects\codebreakerkataant\CodeBreakerKata\obj\any cpu\Debug\CodeBreakerKata.pdb

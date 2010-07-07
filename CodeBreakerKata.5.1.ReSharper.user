@@ -1,0 +1,162 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="301" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="185" fromTop="115" />
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="185" fromTop="110" />
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="185" fromTop="18" />
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="185" fromTop="16" />
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="185" fromTop="14" />
+      <File id="BED3E312-175F-4685-AB1A-1CA53B42BA84/f:CodeBreaker.cs" caret="185" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="33" />
+      <Item value="class" priority="1" />
+      <Item value="void" priority="18" />
+      <Item value="string" priority="106" />
+      <Item value="secret" priority="59" />
+      <Item value="List`0" priority="12" />
+      <Item value="char" priority="23" />
+      <Item value="Assert`0" priority="7" />
+      <Item value="mark" priority="0" />
+      <Item value="CodeBreaker`0" priority="0" />
+      <Item value="return" priority="79" />
+      <Item value="Is`0" priority="1" />
+      <Item value="if" priority="28" />
+      <Item value="lguess" priority="2" />
+      <Item value="foreach" priority="4" />
+      <Item value="toReturn" priority="36" />
+      <Item value="private" priority="10" />
+      <Item value="static" priority="27" />
+      <Item value="this" priority="17" />
+      <Item value="int" priority="29" />
+      <Item value="index" priority="9" />
+      <Item value="color" priority="0" />
+      <Item value="MarkM`0" priority="0" />
+      <Item value="c" priority="6" />
+      <Item value="guess" priority="54" />
+      <Item value="NumberOfOkColorOkPosition`0" priority="1" />
+      <Item value="okWithWrongPosition" priority="2" />
+      <Item value="okColorWithOkPosition" priority="1" />
+      <Item value="RightColorWrongPosition`0" priority="0" />
+      <Item value="_AppDomain`0" priority="0" />
+      <Item value="MarkOkColorOkPosition`0" priority="0" />
+      <Item value="okColorOkPosition" priority="6" />
+      <Item value="okColorWrongPosition" priority="0" />
+      <Item value="bool" priority="5" />
+      <Item value="Guesser`0" priority="1" />
+      <Item value="aString" priority="1" />
+      <Item value="n" priority="2" />
+      <Item value="out" priority="2" />
+      <Item value="true" priority="4" />
+      <Item value="false" priority="8" />
+      <Item value="gsOut" priority="1" />
+      <Item value="OkColorAnyPosition`0" priority="0" />
+      <Item value="OkColorAnyPosition" priority="0" />
+      <Item value="lsecret" priority="4" />
+      <Item value="indexOut" priority="0" />
+      <Item value="OkColorOKPosition" priority="0" />
+      <Item value="OkColorWrongPositio" priority="0" />
+      <Item value="OkColorOkPostition`0" priority="0" />
+      <Item value="OkColorOkPosition`0" priority="0" />
+      <Item value="toreturn" priority="2" />
+      <Item value="okColorOkPostion" priority="0" />
+      <Item value="okColorAnyPosition" priority="1" />
+      <Item value="aList" priority="1" />
+      <Item value="TestCase" priority="3" />
+      <Item value="laLista" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="for" priority="5" />
+      <Item value="i" priority="10" />
+      <Item value="in" priority="1" />
+      <Item value="String`0" priority="0" />
+      <Item value="ListMapper`0" priority="0" />
+      <Item value="MarkGuesser`0" priority="1" />
+      <Item value="sealed" priority="1" />
+      <Item value="answer" priority="0" />
+      <Item value="times" priority="0" />
+      <Item value="myString" priority="1" />
+      <Item value="lChars" priority="0" />
+      <Item value="PairwiseAttribute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToList`1" priority="6" />
+      <Item value="Mark`0" priority="2" />
+      <Item value="Aggregate`3" priority="10" />
+      <Item value="Contains`0" priority="31" />
+      <Item value="ToArray`1" priority="3" />
+      <Item value="Substring`0" priority="7" />
+      <Item value="Length" priority="15" />
+      <Item value="ElementAt`1" priority="23" />
+      <Item value="MarkOkColorOkPosition`0" priority="1" />
+      <Item value="IndexOf`0" priority="2" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="EndsWith`0" priority="3" />
+      <Item value="OkColorAnyPosition`0" priority="2" />
+      <Item value="OkColorOkPosition`0" priority="2" />
+      <Item value="OkColorOkPostition`0" priority="0" />
+      <Item value="OkColorWrongPosition`0" priority="1" />
+      <Item value="MarkOkColorAnyPosition`0" priority="1" />
+      <Item value="ToLower`0" priority="0" />
+      <Item value="Any`1" priority="1" />
+      <Item value="SkipWhile`1" priority="0" />
+      <Item value="Take`1" priority="0" />
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="NonPositionalMatches`0" priority="2" />
+      <Item value="PositionalMatches`0" priority="0" />
+      <Item value="IfcontainsThenRemove`0" priority="0" />
+      <Item value="NumberOfNonPositionalMatch`0" priority="1" />
+      <Item value="NonPositionalMatch`0" priority="0" />
+      <Item value="IntPositionalMatch`0" priority="2" />
+      <Item value="Times`0" priority="0" />
+      <Item value="PositionalMatch`0" priority="4" />
+      <Item value="Normalize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="7" />
+      <Item value="That`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Contains`0" priority="2" />
+      <Item value="Add`0" priority="0" />
+      <Item value="ElementAt`1" priority="1" />
+      <Item value="Remove`0" priority="7" />
+      <Item value="RemoveAt`0" priority="2" />
+      <Item value="ElementAtEqualsAndRemove`0" priority="0" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="IfContainsThenRemove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CodeBreakerKata.Guesser">
+      <Item value="MarkOkColorOkPosition`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
